@@ -1,7 +1,7 @@
 Mô tả về các tệp:
+
 0. Dành cho tất cả các lớp
   a. Cong-thuc.pdf ==> liệt kê các công thức của môn học
-
 
 1. Dành cho lớp học Xác suất thống kê bằng Python
   a. Lenh-Python.pdf      ==> chỉ bản in của file này được sử dụng khi thi
