@@ -116,7 +116,7 @@
     <p>Tính xác suất sao cho trong hộp có 12 bi đỏ, nếu 7 lần lấy từ hộp đều được bi đỏ.</p>
   </li>
 
-  <li>Tỷ lệ dân chúng ủng hộ dự luật là 75\%. Phỏng vấn ngẫu nhiên 11 người.
+  <li>Tỷ lệ dân chúng ủng hộ dự luật là 75%. Phỏng vấn ngẫu nhiên 11 người.
     <p>Tính xác suất để đa số trong 11 người đó ủng hộ dự luật.</p>
   </li>
 
@@ -124,7 +124,7 @@
     <p>Tìm xác suất để ít nhất 2 lần lấy được bi đen.</p>
   </li>
 
-  <li>Một hãng bảo hiểm tai nạn có 400 khách hàng được bảo hiểm cùng một loại tai nạn. Mỗi khách hàng được bảo hiểm phải đóng 100\,000 đồng mỗi năm. Trường hợp xảy ra tai nạn, hãng phải trả cho người bị nạn 800\,000 đồng. Biết rằng xác suất để xảy ra tai nạn đối với bất cứ người được bảo hiểm nào cũng bằng 0.1, các chi phí khác của hãng không đáng kể.
+  <li>Một hãng bảo hiểm tai nạn có 400 khách hàng được bảo hiểm cùng một loại tai nạn. Mỗi khách hàng được bảo hiểm phải đóng 100000 đồng mỗi năm. Trường hợp xảy ra tai nạn, hãng phải trả cho người bị nạn 800000 đồng. Biết rằng xác suất để xảy ra tai nạn đối với bất cứ người được bảo hiểm nào cũng bằng 0.1, các chi phí khác của hãng không đáng kể.
     <p>Tính xác suất để hãng bảo hiểm đó bị lỗ trong một năm nào đó.</p>
   </li>
 </ol>
