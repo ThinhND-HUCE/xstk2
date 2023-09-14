@@ -25,6 +25,6 @@
   </li>
 
   <li>Một người nuôi một đàn thỏ có $n$ con, trong đó có $k$ con màu nâu, $n-k$) con màu trắng và làm $n$ cái lồng với $k$ lồng màu nâu và $n-k$ lồng màu trắng. Xếp ngẫu nhiên mỗi thỏ vào một lồng.
-    <p>Tính xác suất sao cho xếp mỗi con thỏ vào đúng lồng giống với màu lông của nó.</p>
+    <div>Tính xác suất sao cho xếp mỗi con thỏ vào đúng lồng giống với màu lông của nó.</div>
   </li>
 </ol>
