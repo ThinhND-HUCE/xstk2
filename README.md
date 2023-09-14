@@ -1,5 +1,6 @@
 # Mô tả về các tệp:
 * `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
+* `Bài tập.md` các bài tập giao cho sinh viên
 * `Thuc-hanh-Mathematica-Excel.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
 * <b>Link file cài đặt Mathematica</b> bao gồm <b>hướng dẫn</b> cài đặt
      <p align="center">
