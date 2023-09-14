@@ -28,7 +28,14 @@
     <p>Tìm xác suất của biến cố: trong dãy 10 chữ S và N trên, có 2 chữ giống nhau kề nhau.</p>
   </li>
 
-  <li>Một người nuôi một đàn thỏ có $n$ con, trong đó có $k$ con màu nâu, $n-k$) con màu trắng và làm $n$ cái lồng với $k$ lồng màu nâu và $n-k$ lồng màu trắng. Xếp ngẫu nhiên mỗi thỏ vào một lồng.
+  <li>Một người nuôi một đàn thỏ có $n$ con, trong đó có $k$ con màu nâu, $n-k$ con màu trắng và làm $n$ cái lồng với $k$ lồng màu nâu và $n-k$ lồng màu trắng. Xếp ngẫu nhiên mỗi thỏ vào một lồng.
     <p>Tính xác suất sao cho xếp mỗi con thỏ vào đúng lồng giống với màu lông của nó.</p>
+  </li>
+
+  <li>Một trạm y tế có 8 bác sỹ, 12 y tá và 6 hộ lý. Chọn ngẫu nhiên một nhóm 5 cán bộ y tế của trạm. Tính xác suất sao cho trong nhóm 5 người ấy:
+    <ol>
+      <li>Có ít nhất một bác sỹ</li>
+      <li>Có một bác sỹ, một hộ lý và 3 y tá</li>
+    </ol>
   </li>
 </ol>
