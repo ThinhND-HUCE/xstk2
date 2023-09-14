@@ -1,4 +1,5 @@
 # Chương 1
+## Xác suất cổ điển
 <ol>
   <li>Đoàn tàu điện gồm 3 toa tiến vào sân ga, ở đó đang có 12 hành khách chờ lên tàu.
     Giả sử các hành khách lên tàu một cách ngẫu nhiên và độc lập với nhau và mỗi toa còn ít nhất 12 chỗ trống. Tìm xác suất:
@@ -37,5 +38,10 @@
       <li>Có ít nhất một bác sỹ</li>
       <li>Có một bác sỹ, một hộ lý và 3 y tá</li>
     </ol>
+  </li>
+
+
+## Công thức cộng và nhân xác suất
+  <li>a
   </li>
 </ol>
