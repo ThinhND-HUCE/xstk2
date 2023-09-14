@@ -12,7 +12,7 @@
           </a>
      </p>
 
-# Câu hỏi thường gặp
+# Hỏi đáp
 * <b><i>Hình thức thi thế nào?</i></b>
 
      <b><i>Trả lời:</i></b> thi tự luận, <b>không</b> sử dụng tài liệu, trên <b>máy tính</b> ở phòng máy
