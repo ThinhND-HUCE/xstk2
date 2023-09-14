@@ -60,6 +60,14 @@
   </li>
 
   <li>Cho ba biến cố $A, B, C$ độc lập tổng thể với nhau và $P\left(A\right) = 0.4$, $P\left(B\right) = 0.6$, $P\left(C\right) = 0.5$. 
-    <p>Tính \(P\left(A+B+C\right)\).</p>
+    <p>Tính $P\left(A+B+C\right)$.</p>
+  </li>
+
+  <li>Bốn người bắn bia độc lập nhau, mỗi người một viên đạn vào cùng một bia. Xác suất trúng đích của người thứ 1, 2, 3, 4 tương ứng là 0.6, 0.7, 0.8, 0.9. Trên bia có ba vết đạn.
+  <p>Tìm xác suất của biến cố ba vết đạn đó là do người thứ 1, 2 và 3 bắn.</p>
+  </li>
+
+  <li>Trong hộp có 5 bi đỏ, 6 bi trắng. Lần lượt lấy ngẫu nhiên 3 lần, không hoàn lại, mỗi lần 1 bi. Giả sử viên thứ nhất và viên thứ hai cùng màu.
+    <p>Tính xác suất của biến cố "viên thứ ba màu đỏ".</p>
   </li>
 </ol>
