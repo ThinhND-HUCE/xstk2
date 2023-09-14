@@ -1,10 +1,5 @@
 # Mô tả về các tệp:
-* Dành cho <b>tất cả</b> các lớp
-     + `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
-
-* Dành cho lớp học Xác suất thống kê bằng <b>Python</b>
-     + `Lenh-Python.pdf` chỉ bản cứng của file này <b>được sử dụng khi thi</b>
-     + `Thuc-hanh-Python.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
+* `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
 
 * Dành cho lớp học Xác suất thống kê bằng <b>Mathematica</b> và <b>Excel</b>
      + `Thuc-hanh-Mathematica-Excel.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành  
