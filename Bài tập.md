@@ -8,4 +8,13 @@
       <li>Hai hành khách X và Y lên cùng toa</li>
     </ol>
   </li>
+
+  <li>Trong hộp có 6 bi trắng và 7 bi đen. Lấy ngẫu nhiên 5 bi. Tìm xác suất để được ít nhất 2 bi trắng</li>
+
+  <li>Có $n$ người ngồi một cách ngẫu nhiên quanh chiếc bàn tròn $n$ chỗ
+    <ol>
+      <li>Tính xác suất để hai người xác định ngồi cạnh nhau</li>
+      <li>Tính xác suất của biến cố trên trong trường hợp \(n\) người đó ngồi theo một dãy dài</li>
+    </ol>
+  </li>
 </ol>
