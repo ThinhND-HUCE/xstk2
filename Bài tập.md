@@ -39,9 +39,27 @@
       <li>Có một bác sỹ, một hộ lý và 3 y tá</li>
     </ol>
   </li>
-
+</ol>
 
 ## Công thức cộng và nhân xác suất
-  <li>a
+<ol>
+  <li>Bốn sinh viên mang 4 áo mưa giống hệt nhau. Khi vào phòng họ để 4 áo mưa đó vào cùng một chỗ. Khi ra mỗi người lấy ngẫu nhiên 1 áo.
+    <p>Tìm xác suất để ít nhất 1 người lấy đúng áo của mình.</p>
+  </li>
+
+  <li>Sáu sinh viên có 6 chiếc mũ giống hệt nhau. Khi vào phòng họ để 6 mũ đó vào cùng một chỗ. Khi ra mỗi người lấy ngẫu nhiên 1 mũ.
+    <p>Tìm xác suất để có ít nhất 2 người lấy đúng mũ của mình.</p>
+  </li>
+
+  <li>Có 3 máy làm việc độc lập với nhau. Trong ca làm việc, xác suất bị hỏng của máy thứ 1, 2, 3 tương ứng là 0.3, 0.2, 0.1.
+    <p>Tìm xác suất để trong ca làm việc có ít nhất 2 máy không bị hỏng.</p>
+  </li>
+
+  <li>Có $n$ con thỏ đánh số từ 1 đến $n$, và $n$ cái lồng thỏ cũng đánh số từ 1 đến $n$. Xếp ngẫu nhiên mỗi con thỏ vào một lồng.
+    <p>Tính xác suất sao cho ít nhất một con thỏ vào đúng lồng có cùng số với nó.</p>
+  </li>
+
+  <li>Cho ba biến cố $A, B, C$ độc lập tổng thể với nhau và $P\left(A\right) = 0.4$, $P\left(B\right) = 0.6$, $P\left(C\right) = 0.5$. 
+    <p>Tính \(P\left(A+B+C\right)\).</p>
   </li>
 </ol>
