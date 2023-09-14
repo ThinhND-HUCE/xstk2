@@ -5,7 +5,7 @@
      <p align="center">
           <a href="https://github.com/ThinhND-HUCE/Mathematica">GitHub</a>
      </p>
-* <b>Video</b> hướng dẫn thực hành
+* <b>Video</b> hướng dẫn thực hành Mathematica <b>5.2</b> và Excel
      <p align="center">
           <a href="https://www.youtube.com/watch?v=-f7oyw9mgak&list=PLgFze5QynAFNR3aFNlxb_P4UZiveYddN9&ab_channel=Th%E1%BB%8BnhN.%C4%90.">
           YouTube
