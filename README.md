@@ -4,7 +4,7 @@
 * `Thuc-hanh-Mathematica-Excel.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
 * <b>Link file cài đặt Mathematica</b> bao gồm <b>hướng dẫn</b> cài đặt
      <p align="center">
-          <a href="https://github.com/ThinhND-HUCE/Mathematica">GitHub</a>
+          <a href="https://nuceedu-my.sharepoint.com/:u:/g/personal/thinhnd_huce_edu_vn/ETNB4kBp6ZBCvD658pIzLIIBeA7AUoozkl83dioTa16vnA">GitHub</a>
      </p>
 * <b>Video</b> hướng dẫn thực hành Mathematica <b>5.2</b> và Excel
      <p align="center">
