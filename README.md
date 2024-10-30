@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td><a href="https://nuceedu-my.sharepoint.com/:v:/g/personal/thinhnd_huce_edu_vn/Edgc29SEFxpJloSLek7MctMBURpE4cH1ZfkDL-Z32430pQ"> Mathematica 5.2 </a></td>
-    <td><a href="https://www.youtube.com/watch?v=-f7oyw9mgak&list=PLgFze5QynAFNR3aFNlxb_P4UZiveYddN9&ab_channel=Th%E1%BB%8BnhN.%C4%90."> Mathematica 5.2 và Excel </a></td>
+    <td><a href="https://www.youtube.com/watch?v=G-hXslIX78s&list=PLgFze5QynAFNR3aFNlxb_P4UZiveYddN9"> Mathematica 5.2 và Excel </a></td>
   </tr>
 </table>
 
