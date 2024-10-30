@@ -12,7 +12,7 @@
 * Nội dung đề thi: **gồm 5 câu** gồm 2 câu phần Xác suất (tổng 5 điểm) và 3 câu phần Thống kê (tổng 5 điểm). Đề cương chi tiết (phủ 90% đề thi):
 <ol>
 <li></li> Công thức cộng và nhân xác suất, thường áp dụng cho các biến cố độc lập
-<li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc: lúc này các phép tính xác suất liên quan đến đại lượng ngẫu nhiên chủ yếu là công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
+<li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: tính các xác suất $P\left( {X = {x_i}} \right)$  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
 <li>Cho đại lượng ngẫu nhiên $X$ có hàm mật độ $f\left(x\right)$ Tính: 
   <ol>
   <li>$a < X < b$</li>
@@ -21,4 +21,7 @@
   <li>$D\left[ {\varphi \left( X \right)} \right]$</li>
   </ol>
 </li>
+<li></li>
+<li></li>
+<li></li>
 </ol>
