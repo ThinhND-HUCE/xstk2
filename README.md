@@ -2,16 +2,21 @@
 * `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
 * `Bài tập.md` các bài tập giao cho sinh viên
 * `Thuc-hanh-Mathematica-Excel.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
-* <b>Link file cài đặt Mathematica</b> bao gồm <b>hướng dẫn</b> cài đặt
+* Link tải <b>Mathematica 5.2</b> cho hệ điều hành <b>Windows</b>
      <p align="center">
           <a href="https://nuceedu-my.sharepoint.com/:u:/g/personal/thinhnd_huce_edu_vn/ETNB4kBp6ZBCvD658pIzLIIBeA7AUoozkl83dioTa16vnA">OneDrive</a>
      </p>
-* <b>Video</b> hướng dẫn thực hành Mathematica <b>5.2</b> và Excel
-     <p align="center">
-          <a href="https://www.youtube.com/watch?v=-f7oyw9mgak&list=PLgFze5QynAFNR3aFNlxb_P4UZiveYddN9&ab_channel=Th%E1%BB%8BnhN.%C4%90.">
-          YouTube
-          </a>
-     </p>
+* Video hướng dẫn thực hành <b>Mathematica 5.2</b> và <b>Excel</b>
+<table align="center">
+  <tr>
+    <th>Hướng dẫn cài đặt</th>
+    <th>Thực hành</th>
+  </tr>
+  <tr>
+    <td><a href="https://nuceedu-my.sharepoint.com/:v:/g/personal/thinhnd_huce_edu_vn/Edgc29SEFxpJloSLek7MctMBURpE4cH1ZfkDL-Z32430pQ"> Mathematica 5.2 </a></td>
+    <td><a href="https://www.youtube.com/watch?v=-f7oyw9mgak&list=PLgFze5QynAFNR3aFNlxb_P4UZiveYddN9&ab_channel=Th%E1%BB%8BnhN.%C4%90."> Mathematica 5.2 và Excel </a></td>
+  </tr>
+</table>
 
 # Hỏi đáp
 * <b><i>Hình thức thi thế nào?</i></b>
