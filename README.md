@@ -19,17 +19,6 @@
 </table>
 
 # Hỏi đáp
-* <b><i>Hình thức thi thế nào?</i></b>
-
-     <b><i>Trả lời:</i></b> thi tự luận, <b>không</b> sử dụng tài liệu, trên <b>máy tính</b> ở phòng máy
-     
-* <b><i>Cấu trúc đề thi thế nào?</i></b>
-
-     <b><i>Trả lời:</i></b> 5 điểm phần Xác suất + 5 điểm Thống kê
-* <b><i>Em nên làm phần nào trước?</i></b>
-
-     <b><i>Trả lời:</i></b> làm phần thống kê trước, vì phần này `ba-rem` sẵn rồi!
-
 * <b><i>Có bao nhiêu bài kiểm tra giữa kỳ?</i></b>
 
      <b><i>Trả lời:</i></b> tối thiểu <b>1</b> bài, thường là <b>2</b> bài
