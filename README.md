@@ -6,7 +6,7 @@
      <p align="center">
           <a href="https://nuceedu-my.sharepoint.com/:u:/g/personal/thinhnd_huce_edu_vn/ETNB4kBp6ZBCvD658pIzLIIBeA7AUoozkl83dioTa16vnA">OneDrive</a>
      </p>
-* Video hướng dẫn thực hành <b>Mathematica 5.2</b> và <b>Excel</b>
+* Video hướng dẫn
 <table align="center">
   <tr>
     <th>Hướng dẫn cài đặt</th>
