@@ -13,6 +13,7 @@
 <ol>
 <li></li> Công thức cộng và nhân xác suất, thường áp dụng cho các biến cố độc lập
 <li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: tính các xác suất $P\left( {X = {x_i}} \right)$  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
+
 <li>Cho đại lượng ngẫu nhiên $X$ có hàm mật độ $f\left(x\right)$ Tính: 
   <ol>
   <li>$P\left( a < X < b \right)$</li>
@@ -23,7 +24,13 @@
   <li>$D\left( aX+b \right)$</li>
   </ol>
 </li>
-<li></li>
+
+<li>Cho véctơ ngẫu nhiên $\left(X, Y\right)$ có bảng phân bố xác suất đồng thời
+  <li>Tìm một giá trị chưa biết trong bảng phân bố</li>
+  <li>Tính $P\left(aX + bY < c\right)$</li>
+  <li>Tính $EX$</li>
+  
+</li>
 <li></li>
 <li></li>
 </ol>
