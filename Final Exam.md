@@ -40,8 +40,10 @@
   </ol>
   
 </li>
+
 <li>Tiêu chuẩn phù hợp $\chi^2$: Cho hệ biến cố đầy đủ $A_1, A_2,\ldots, A_h$. Thực hiện $n$ lần thử, thấy $A_i$ xảy ra $n_i$ lần. Với mức ý nghĩa $\alpha$, kiểm định xác suất của hệ biến cố: $P\left( A_1 \right) = p_{10}, \ldots , P\left( A_h \right) = p_{h0}$
-  
 </li>
+
 <li></li>
 
+</ol>
