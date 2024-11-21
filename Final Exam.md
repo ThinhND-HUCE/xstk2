@@ -15,7 +15,8 @@
 <li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: tính các xác suất $P\left( {X = {x_i}} \right)$  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
 <li>Cho đại lượng ngẫu nhiên $X$ có hàm mật độ $f\left(x\right)$ Tính: 
   <ol>
-  <li>$a < X < b$</li>
+  <li>$P\left( a < X < b \right)$</li>
+  <li>$P\left( \alpha < aX + b < \beta \right)$</li>
   <li>$E\left[ {\varphi \left( X \right)} \right]$ trong đó ${\varphi \left( x \right)}$ là hàm số cho trước</li>
   <li>$DX$</li>
   <li>$D\left[ {\varphi \left( X \right)} \right]$</li>
