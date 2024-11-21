@@ -14,7 +14,14 @@
 <ol>
 <li>Công thức cộng và nhân xác suất, thường áp dụng cho các biến cố độc lập</li>
 <li>Công thức xác suất đầy đủ: thường áp dụng với bài toán có hai hộp đựng các loại bi, hay bài toán về tỷ lệ chính phẩm trong các nhà máy</li>
-<li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: tính các xác suất $P\left( {X = {x_i}} \right)$  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
+<li>Cho đại lượng ngẫu nhiên rời rạc $X$:
+  <ol>
+    <li>Tính các xác suất $P\left( {X = {x_i}} \right)$:  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
+    <li>Lập bảng phân bố xác suất của $X$</li>
+    <li>Tính $EX$</li>
+    <li>Tính $E\left(aX + b\right)$</li>
+  </ol>
+  Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: </li>
 
 <li>Cho đại lượng ngẫu nhiên $X$ có hàm mật độ $f\left(x\right)$ Tính: 
   <ol>
