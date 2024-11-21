@@ -12,7 +12,8 @@
 * Nội dung đề thi: **gồm 4-5 câu** gồm 2-3 câu phần Xác suất (tổng 5 điểm) và 2 câu phần Thống kê (tổng 5 điểm)
 * Đề cương chi tiết (phủ $>80$% đề thi):
 <ol>
-<li></li> Công thức cộng và nhân xác suất, thường áp dụng cho các biến cố độc lập
+<li>Công thức cộng và nhân xác suất, thường áp dụng cho các biến cố độc lập</li>
+<li>Công thức xác suất đầy đủ: thường áp dụng với bài toán có hai hộp đựng các loại bi, hay bài toán về tỷ lệ chính phẩm trong các nhà máy</li>
 <li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: tính các xác suất $P\left( {X = {x_i}} \right)$  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
 
 <li>Cho đại lượng ngẫu nhiên $X$ có hàm mật độ $f\left(x\right)$ Tính: 
