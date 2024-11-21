@@ -26,10 +26,11 @@
 </li>
 
 <li>Cho véctơ ngẫu nhiên $\left(X, Y\right)$ có bảng phân bố xác suất đồng thời
+  <ol>
   <li>Tìm một giá trị chưa biết trong bảng phân bố</li>
   <li>Tính $P\left(aX + bY < c\right)$</li>
   <li>Tính $EX$</li>
-  
+  <ol>
 </li>
 <li></li>
 <li></li>
