@@ -18,14 +18,3 @@
   </tr>
 </table>
 
-# Hỏi đáp
-* <b><i>Có bao nhiêu bài kiểm tra giữa kỳ?</i></b>
-
-     <b><i>Trả lời:</i></b> tối thiểu <b>1</b> bài, thường là <b>2</b> bài
-
-* <b><i>Hình thức kiểm tra giữa kỳ thế nào?</i></b>
-
-     <b><i>Trả lời:</i></b> <b>câu hỏi ngắn - trả lời nhanh</b> (điền đáp số vào mẫu in có sẵn trong đề)
-
-
-      
