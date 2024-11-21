@@ -30,6 +30,7 @@
   <li>Tìm một giá trị chưa biết trong bảng phân bố</li>
   <li>Tính $P\left(aX + bY < c\right)$</li>
   <li>Tính $EX$</li>
+  </ol>
 </li>
 
 <li>Cho mẫu thu được từ đại lượng ngẫu nhiên $X$ (thường là mẫu rút gọn)
