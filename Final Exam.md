@@ -51,6 +51,7 @@
         <li>$DX$</li>
       </ol>
     </li>
+    <li>Với mức ý nghĩa $\alpha$, kiểm định xem giá trị trung bình của $X$ có bằng (lớn hơn/nhỏ hơn) $a_0$ không</li>
   </ol>
   
 </li>
