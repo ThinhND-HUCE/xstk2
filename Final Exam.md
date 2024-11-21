@@ -25,13 +25,19 @@
   </ol>
 </li>
 
-<li>Cho véctơ ngẫu nhiên $\left(X, Y\right)$ có bảng phân bố xác suất đồng thời
+<li>Cho véctơ ngẫu nhiên $\left(X, Y\right)$ có bảng phân bố xác suất đồng thời (cỡ không quá $3\times 3$)
   <ol>
   <li>Tìm một giá trị chưa biết trong bảng phân bố</li>
   <li>Tính $P\left(aX + bY < c\right)$</li>
   <li>Tính $EX$</li>
+</li>
+
+<li>Cho mẫu thu được từ đại lượng ngẫu nhiên $X$ (thường là mẫu rút gọn)
   <ol>
+    <li>Tìm khoảng tin cậy của $EX$ với độ tin cậy $\gamma$ (thường $DX$ chưa biết)</li>
+    <li></li>
+  </ol>
+  
 </li>
 <li></li>
-<li></li>
-</ol>
+
