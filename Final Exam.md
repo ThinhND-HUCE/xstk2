@@ -17,9 +17,10 @@
   <ol>
   <li>$P\left( a < X < b \right)$</li>
   <li>$P\left( \alpha < aX + b < \beta \right)$</li>
-  <li>$E\left[ {\varphi \left( X \right)} \right]$ trong đó ${\varphi \left( x \right)}$ là hàm số cho trước</li>
+  <li>$EX$</li>
+  <li>$E\left[ aX+b \right]$</li>
   <li>$DX$</li>
-  <li>$D\left[ {\varphi \left( X \right)} \right]$</li>
+  <li>$D\left[ aX+b \right]$</li>
   </ol>
 </li>
 <li></li>
