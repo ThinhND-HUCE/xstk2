@@ -9,7 +9,8 @@
   + Trên `Desktop` mở thư mục `TOAN UNG DUNG`
   + Trong thư mục `TOAN UNG DUNG` mở shortcut `Mathematica 5.2`
 
-* Nội dung đề thi: **gồm 4-5 câu** gồm 2-3 câu phần Xác suất (tổng 5 điểm) và 2 câu phần Thống kê (tổng 5 điểm). Đề cương chi tiết (phủ 90% đề thi):
+* Nội dung đề thi: **gồm 4-5 câu** gồm 2-3 câu phần Xác suất (tổng 5 điểm) và 2 câu phần Thống kê (tổng 5 điểm)
+* Đề cương chi tiết (phủ $>80\%$ đề thi):
 <ol>
 <li></li> Công thức cộng và nhân xác suất, thường áp dụng cho các biến cố độc lập
 <li>Lập bảng phân bố xác suất của đại lượng ngẫu nhiên rời rạc $X$: tính các xác suất $P\left( {X = {x_i}} \right)$  chủ yếu bằng công thức xác suất cổ điển, hoặc công thức cộng và nhân xác suất</li>
