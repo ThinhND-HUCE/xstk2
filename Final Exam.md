@@ -25,12 +25,13 @@
 
 <li>Cho đại lượng ngẫu nhiên $X$ có hàm mật độ $f\left(x\right)$ Tính: 
   <ol>
-  <li>$P\left( a < X < b \right)$</li>
-  <li>$P\left( \alpha < aX + b < \beta \right)$</li>
-  <li>$EX$</li>
-  <li>$E\left( aX+b \right)$</li>
-  <li>$DX$</li>
-  <li>$D\left( aX+b \right)$</li>
+    <li>Xác định tham số chưa biết bên trong hàm mật độ</li>
+    <li>$P\left( a < X < b \right)$</li>
+    <li>$P\left( \alpha < aX + b < \beta \right)$</li>
+    <li>$EX$</li>
+    <li>$E\left( aX+b \right)$</li>
+    <li>$DX$</li>
+    <li>$D\left( aX+b \right)$</li>
   </ol>
 </li>
 
