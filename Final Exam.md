@@ -34,9 +34,12 @@
 
 <li>Cho mẫu thu được từ đại lượng ngẫu nhiên $X$ (thường là mẫu rút gọn)
   <ol>
-    <li>Tìm khoảng tin cậy của $EX$ với độ tin cậy $\gamma$ (thường $DX$ chưa biết)</li>
+    <li>Tìm khoảng tin cậy của $EX$ với độ tin cậy $\gamma$ (thường khi $DX$ chưa biết)</li>
     <li></li>
   </ol>
+  
+</li>
+<li>Tiêu chuẩn phù hợp $\chi^2$: Cho hệ biến cố đầy đủ $A_1, A_2,\ldots, A_h$. Thực hiện $n$ lần thử, thấy $A_i$ xảy ra $n_i$ lần. Với mức ý nghĩa $\alpha$, kiểm định xác suất của hệ biến cố: $P\left( A_1 \right = p_{10}, \ldots , P\left( A_h \right = p_{h0}$
   
 </li>
 <li></li>
