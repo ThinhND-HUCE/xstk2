@@ -43,10 +43,10 @@
   </ol>
 </li>
 
-<li>Cho mẫu thu được từ đại lượng ngẫu nhiên $X$ (thường là mẫu rút gọn)
+<li>Cho mẫu thu được từ đại lượng ngẫu nhiên $X$ có phân bố chuẩn (thường là mẫu rút gọn). Với độ tin cậy $\gamma$, xác định khoảng tin cậy cho
   <ol>
-    <li>Tìm khoảng tin cậy của $EX$ với độ tin cậy $\gamma$ (thường khi $DX$ chưa biết)</li>
-    <li></li>
+    <li>$EX$ (thường khi $DX$ chưa biết)</li>
+    <li>$DX$</li>
   </ol>
   
 </li>
