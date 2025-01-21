@@ -1,0 +1,260 @@
+(************** Content-type: application/mathematica **************
+                     CreatedBy='Mathematica 5.2'
+
+                    Mathematica-Compatible Notebook
+
+This notebook can be used with any Mathematica-compatible
+application, such as Mathematica, MathReader or Publicon. The data
+for the notebook starts with the line containing stars above.
+
+To get the notebook into a Mathematica-compatible application, do
+one of the following:
+
+* Save the data starting with the line of stars above into a file
+  with a name ending in .nb, then open the file inside the
+  application;
+
+* Copy the data starting with the line of stars above to the
+  clipboard, then use the Paste menu command inside the application.
+
+Data for notebooks contains only printable 7-bit ASCII and can be
+sent directly in email or through ftp in text mode.  Newlines can be
+CR, LF or CRLF (Unix, Macintosh or MS-DOS style).
+
+NOTE: If you modify the data for this notebook not in a Mathematica-
+compatible application, you must delete the line below containing
+the word CacheID, otherwise Mathematica-compatible applications may
+try to use invalid cache data.
+
+For more information on notebooks and Mathematica-compatible 
+applications, contact Wolfram Research:
+  web: http://www.wolfram.com
+  email: info@wolfram.com
+  phone: +1-217-398-0700 (U.S.)
+
+Notebook reader applications are available free of charge from 
+Wolfram Research.
+*******************************************************************)
+
+(*CacheID: 232*)
+
+
+(*NotebookFileLineBreakTest
+NotebookFileLineBreakTest*)
+(*NotebookOptionsPosition[      4981,        176]*)
+(*NotebookOutlinePosition[      5646,        199]*)
+(*  CellTagsIndexPosition[      5602,        195]*)
+(*WindowFrame->Normal*)
+
+
+
+Notebook[{
+Cell[BoxData[
+    \(f[x_, y_] := 
+      If[0 \[LessEqual] y \[LessEqual] 2  x \[LessEqual] 2, x + k*y, 
+        0]\)], "Input"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity]\((\[Integral]\_\(-\[Infinity]\
+\)\%\[Infinity] f[x, y] \[DifferentialD]y)\) \[DifferentialD]x\)], "Input"],
+
+Cell[BoxData[
+    \(\(2\ \((1 + k)\)\)\/3\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(k = 1\/2\)], "Input"],
+
+Cell[BoxData[
+    \(1\/2\)], "Output"]
+}, Open  ]],
+
+Cell[BoxData[
+    \(g[x_, y_] := If[x < y, f[x, y], 0]\)], "Input"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity]\((\[Integral]\_\(-\[Infinity]\
+\)\%\[Infinity] g[x, y] \[DifferentialD]y)\) \[DifferentialD]x\)], "Input"],
+
+Cell[BoxData[
+    \(7\/12\)], "Output"]
+}, Open  ]],
+
+Cell[BoxData[
+    \(g[x_, y_] := If[x\^2 < y, f[x, y], 0]\)], "Input"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(m = \[Integral]\_\(-\[Infinity]\)\%\[Infinity]\((\[Integral]\_\(-\
+\[Infinity]\)\%\[Infinity] g[x, 
+                  y] \[DifferentialD]y)\) \[DifferentialD]x\)], "Input"],
+
+Cell[BoxData[
+    \(7\/10\)], "Output"]
+}, Open  ]],
+
+Cell[BoxData[
+    \(g[x_, y_] := If[y < 1 && x\^2 < y, f[x, y], 0]\)], "Input"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(t = \[Integral]\_\(-\[Infinity]\)\%\[Infinity]\((\[Integral]\_\(-\
+\[Infinity]\)\%\[Infinity] g[x, 
+                  y] \[DifferentialD]y)\) \[DifferentialD]x\)], "Input"],
+
+Cell[BoxData[
+    \(13\/40\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(t\/m\)], "Input"],
+
+Cell[BoxData[
+    \(13\/28\)], "Output"]
+}, Open  ]],
+
+Cell[BoxData[
+    \(g[u_, v_] := If[u < x && v < y, f[u, v], 0]\)], "Input"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity]\((\[Integral]\_\(-\[Infinity]\
+\)\%\[Infinity] g[u, v] \[DifferentialD]v)\) \[DifferentialD]u\)], "Input"],
+
+Cell[BoxData[
+    RowBox[{"\[Piecewise]", GridBox[{
+          {"1", \(x > 1 && y > 2\)},
+          {\(x\^3\), \(0 < x \[LessEqual] 1 && 2\ x - y < 0\)},
+          {\(y\^3\/8\), \(\((0 < x \[LessEqual] 1 && y > 0 && 
+                  2\ x - y \[Equal] 0)\) || \((x > 1 && y \[Equal] 2)\)\)},
+          {\(1\/8\ \((4\ y + 2\ y\^2 - y\^3)\)\), \(x > 1 && 0 < y < 2\)},
+          {\(1\/8\ \((4\ x\^2\ y + 2\ x\ y\^2 - y\^3)\)\), \(0 < 
+                x \[LessEqual] 1 && 2\ x - y > 0 && y > 0\)}
+          },
+        ColumnSpacings->1.2,
+        ColumnAlignments->{Left}]}]], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
+          y] \[DifferentialD]y\)], "Input"],
+
+Cell[BoxData[
+    RowBox[{"\[Piecewise]", GridBox[{
+          {\(3\ x\^2\), \(0 < x \[LessEqual] 1\)}
+          },
+        ColumnSpacings->1.2,
+        ColumnAlignments->{Left}]}]], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
+          y] \[DifferentialD]x\)], "Input"],
+
+Cell[BoxData[
+    RowBox[{"\[Piecewise]", GridBox[{
+          {\(1\/8\ \((4 + 4\ y - 3\ y\^2)\)\), \(0 \[LessEqual] y < 2\)}
+          },
+        ColumnSpacings->1.2,
+        ColumnAlignments->{Left}]}]], "Output"]
+}, Open  ]]
+},
+FrontEndVersion->"5.2 for Microsoft Windows",
+ScreenRectangle->{{0, 1366}, {0, 670}},
+WindowSize->{1168, 399},
+WindowMargins->{{-5, Automatic}, {Automatic, -56}},
+Magnification->2
+]
+
+(*******************************************************************
+Cached data follows.  If you edit this Notebook file directly, not
+using Mathematica, you must remove the line containing CacheID at
+the top of  the file.  The cache data will then be recreated when
+you save this file from within Mathematica.
+*******************************************************************)
+
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+
+(*NotebookFileOutline
+Notebook[{
+Cell[1754, 51, 127, 3, 55, "Input"],
+
+Cell[CellGroupData[{
+Cell[1906, 58, 169, 2, 83, "Input"],
+Cell[2078, 62, 55, 1, 76, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[2170, 68, 41, 1, 82, "Input"],
+Cell[2214, 71, 38, 1, 76, "Output"]
+}, Open  ]],
+Cell[2267, 75, 67, 1, 55, "Input"],
+
+Cell[CellGroupData[{
+Cell[2359, 80, 169, 2, 83, "Input"],
+Cell[2531, 84, 39, 1, 75, "Output"]
+}, Open  ]],
+Cell[2585, 88, 70, 1, 57, "Input"],
+
+Cell[CellGroupData[{
+Cell[2680, 93, 192, 3, 83, "Input"],
+Cell[2875, 98, 39, 1, 100, "Output"]
+}, Open  ]],
+Cell[2929, 102, 79, 1, 57, "Input"],
+
+Cell[CellGroupData[{
+Cell[3033, 107, 192, 3, 83, "Input"],
+Cell[3228, 112, 40, 1, 101, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[3305, 118, 37, 1, 82, "Input"],
+Cell[3345, 121, 40, 1, 101, "Output"]
+}, Open  ]],
+Cell[3400, 125, 76, 1, 55, "Input"],
+
+Cell[CellGroupData[{
+Cell[3501, 130, 169, 2, 83, "Input"],
+Cell[3673, 134, 583, 11, 252, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[4293, 150, 112, 2, 83, "Input"],
+Cell[4408, 154, 191, 5, 84, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[4636, 164, 112, 2, 83, "Input"],
+Cell[4751, 168, 214, 5, 88, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+
+
+(*******************************************************************
+End of Mathematica Notebook file.
+*******************************************************************)
+
