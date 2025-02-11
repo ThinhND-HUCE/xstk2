@@ -41,9 +41,9 @@ Wolfram Research.
 
 (*NotebookFileLineBreakTest
 NotebookFileLineBreakTest*)
-(*NotebookOptionsPosition[      4981,        176]*)
-(*NotebookOutlinePosition[      5646,        199]*)
-(*  CellTagsIndexPosition[      5602,        195]*)
+(*NotebookOptionsPosition[      6917,        275]*)
+(*NotebookOutlinePosition[      7581,        298]*)
+(*  CellTagsIndexPosition[      7537,        294]*)
 (*WindowFrame->Normal*)
 
 
@@ -146,11 +146,14 @@ Cell[BoxData[
         ColumnAlignments->{Left}]}]], "Output"]
 }, Open  ]],
 
+Cell[BoxData[
+    \(f1[x_] := \[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
+            y] \[DifferentialD]y\)], "Input"],
+
 Cell[CellGroupData[{
 
 Cell[BoxData[
-    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
-          y] \[DifferentialD]y\)], "Input"],
+    \(f1[x]\)], "Input"],
 
 Cell[BoxData[
     RowBox[{"\[Piecewise]", GridBox[{
@@ -160,15 +163,111 @@ Cell[BoxData[
         ColumnAlignments->{Left}]}]], "Output"]
 }, Open  ]],
 
+Cell[BoxData[
+    \(f2[y_] := \[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
+            y] \[DifferentialD]x\)], "Input"],
+
 Cell[CellGroupData[{
 
 Cell[BoxData[
-    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
-          y] \[DifferentialD]x\)], "Input"],
+    \(f2[y]\)], "Input"],
 
 Cell[BoxData[
     RowBox[{"\[Piecewise]", GridBox[{
           {\(1\/8\ \((4 + 4\ y - 3\ y\^2)\)\), \(0 \[LessEqual] y < 2\)}
+          },
+        ColumnSpacings->1.2,
+        ColumnAlignments->{Left}]}]], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(f[1\/2, 3\/2]\)], "Input"],
+
+Cell[BoxData[
+    \(0\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(f1[1\/2]\)], "Input"],
+
+Cell[BoxData[
+    \(3\/4\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(f2[3\/2]\)], "Input"],
+
+Cell[BoxData[
+    \(13\/32\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(f1[1\/2]*f2[3\/2]\)], "Input"],
+
+Cell[BoxData[
+    \(39\/128\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(Simplify[f1[x]*f2[y]]\)], "Input"],
+
+Cell[BoxData[
+    RowBox[{"\[Piecewise]", GridBox[{
+          {\(\(-\(3\/8\)\)\ x\^2\ \((\(-4\) - 4\ y + 3\ y\^2)\)\), \(0 < 
+                x \[LessEqual] 1 && 0 \[LessEqual] y < 2\)}
+          },
+        ColumnSpacings->1.2,
+        ColumnAlignments->{Left}]}]], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(Simplify[f[x, y]]\)], "Input"],
+
+Cell[BoxData[
+    \(If[0 \[LessEqual] y \[LessEqual] 2\ x \[LessEqual] 2, x + k\ y, 
+      0]\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(Simplify[f[1\/2, y]\/f1[1\/2]]\)], "Input"],
+
+Cell[BoxData[
+    \(4\/3\ If[0 \[LessEqual] y \[LessEqual] 1, 1\/2 + k\ y, 0]\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(Simplify[4\/3*\((1\/2 + k*y)\)]\)], "Input"],
+
+Cell[BoxData[
+    \(\(2\ \((1 + y)\)\)\/3\)], "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+    \(\[Integral]\_\(-\[Infinity]\)\%\[Infinity] f[x, 
+          z - x] \[DifferentialD]x\)], "Input"],
+
+Cell[BoxData[
+    RowBox[{"\[Piecewise]", GridBox[{
+          {\(\(5\ z\^2\)\/9\), \(0 < z \[LessEqual] 1\)},
+          {\(1\/36\ \((9 + 18\ z - 7\ z\^2)\)\), \(1 < z < 3\)}
           },
         ColumnSpacings->1.2,
         ColumnAlignments->{Left}]}]], "Output"]
@@ -177,7 +276,7 @@ Cell[BoxData[
 FrontEndVersion->"5.2 for Microsoft Windows",
 ScreenRectangle->{{0, 1366}, {0, 670}},
 WindowSize->{1168, 399},
-WindowMargins->{{-5, Automatic}, {Automatic, -56}},
+WindowMargins->{{46, Automatic}, {10, Automatic}},
 Magnification->2
 ]
 
@@ -207,7 +306,7 @@ Cell[2078, 62, 55, 1, 76, "Output"]
 
 Cell[CellGroupData[{
 Cell[2170, 68, 41, 1, 82, "Input"],
-Cell[2214, 71, 38, 1, 76, "Output"]
+Cell[2214, 71, 38, 1, 101, "Output"]
 }, Open  ]],
 Cell[2267, 75, 67, 1, 55, "Input"],
 
@@ -219,34 +318,81 @@ Cell[2585, 88, 70, 1, 57, "Input"],
 
 Cell[CellGroupData[{
 Cell[2680, 93, 192, 3, 83, "Input"],
-Cell[2875, 98, 39, 1, 100, "Output"]
+Cell[2875, 98, 39, 1, 75, "Output"]
 }, Open  ]],
 Cell[2929, 102, 79, 1, 57, "Input"],
 
 Cell[CellGroupData[{
 Cell[3033, 107, 192, 3, 83, "Input"],
-Cell[3228, 112, 40, 1, 101, "Output"]
+Cell[3228, 112, 40, 1, 76, "Output"]
 }, Open  ]],
 
 Cell[CellGroupData[{
 Cell[3305, 118, 37, 1, 82, "Input"],
-Cell[3345, 121, 40, 1, 101, "Output"]
+Cell[3345, 121, 40, 1, 76, "Output"]
 }, Open  ]],
 Cell[3400, 125, 76, 1, 55, "Input"],
 
 Cell[CellGroupData[{
 Cell[3501, 130, 169, 2, 83, "Input"],
-Cell[3673, 134, 583, 11, 252, "Output"]
+Cell[3673, 134, 583, 11, 227, "Output"]
+}, Open  ]],
+Cell[4271, 148, 124, 2, 83, "Input"],
+
+Cell[CellGroupData[{
+Cell[4420, 154, 38, 1, 55, "Input"],
+Cell[4461, 157, 191, 5, 84, "Output"]
+}, Open  ]],
+Cell[4667, 165, 124, 2, 83, "Input"],
+
+Cell[CellGroupData[{
+Cell[4816, 171, 38, 1, 55, "Input"],
+Cell[4857, 174, 214, 5, 88, "Output"]
 }, Open  ]],
 
 Cell[CellGroupData[{
-Cell[4293, 150, 112, 2, 83, "Input"],
-Cell[4408, 154, 191, 5, 84, "Output"]
+Cell[5108, 184, 46, 1, 82, "Input"],
+Cell[5157, 187, 35, 1, 80, "Output"]
 }, Open  ]],
 
 Cell[CellGroupData[{
-Cell[4636, 164, 112, 2, 83, "Input"],
-Cell[4751, 168, 214, 5, 88, "Output"]
+Cell[5229, 193, 41, 1, 82, "Input"],
+Cell[5273, 196, 38, 1, 100, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[5348, 202, 41, 1, 82, "Input"],
+Cell[5392, 205, 40, 1, 101, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[5469, 211, 50, 1, 82, "Input"],
+Cell[5522, 214, 41, 1, 100, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[5600, 220, 54, 1, 55, "Input"],
+Cell[5657, 223, 275, 6, 86, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[5969, 234, 50, 1, 55, "Input"],
+Cell[6022, 237, 107, 2, 80, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[6166, 244, 63, 1, 116, "Input"],
+Cell[6232, 247, 91, 1, 101, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[6360, 253, 64, 1, 82, "Input"],
+Cell[6427, 256, 55, 1, 101, "Output"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+Cell[6519, 262, 116, 2, 83, "Input"],
+Cell[6638, 266, 263, 6, 138, "Output"]
 }, Open  ]]
 }
 ]
