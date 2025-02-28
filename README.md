@@ -1,3 +1,7 @@
+# Thông báo
+## Lớp CDQ1,2
+  * Sinh viên trùng lịch, nếu thầy xin được phòng vào tiết 7 thì sẽ học bổ sung (và phòng học sẽ thông báo sau). Nếu không, sinh viên khắc phục bằng cách tự học
+
 # Mô tả về các tệp:
 * `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
 * `Bài tập.md` các bài tập giao cho sinh viên
