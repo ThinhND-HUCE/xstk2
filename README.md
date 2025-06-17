@@ -1,6 +1,5 @@
 # Thông báo
-## Lớp CDQ1,2
-  * Sinh viên trùng lịch vào sáng thứ 7, sẽ học bù vào tiết 7 cùng ngày tại P52.H3
+
 
 # Mô tả về các tệp:
 * `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
