@@ -1,3 +1,6 @@
+# Thông báo
+
+
 # Mô tả về các tệp:
 * `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
 * `Bài tập.md` các bài tập giao cho sinh viên
