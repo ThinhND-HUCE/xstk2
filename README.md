@@ -2,7 +2,7 @@
 ## Lịch học bù + Kiểm tra lớp 70CB
 * _Thời gian:_ 18h15, ngày dự kiến: từ 21/9 đến 25/9
 * _Địa điểm:_ đang chờ cấp phòng
-* _Ghi chú:_ sinh viên chuẩn bị máy tính bỏ túi Kiểm tra không được sử dụng tài liệu.
+* _Ghi chú:_ sinh viên chuẩn bị máy tính bỏ túi. Kiểm tra không được sử dụng tài liệu.
 
 # Mô tả về các tệp:
 * `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
