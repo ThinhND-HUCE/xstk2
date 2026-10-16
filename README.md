@@ -1,13 +1,9 @@
 # Thông báo
-## Lịch học bù + Kiểm tra lớp 70CB
-* _Thời gian:_ 18h15 (tiết 13-15), thứ 6 ngày 25/9.
-* _Địa điểm:_ 313H1.
-* _Ghi chú:_ sinh viên chuẩn bị máy tính bỏ túi. Kiểm tra không được sử dụng tài liệu.
 
 # Mô tả về các tệp:
-* `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
+* `Cong thuc.pdf` liệt kê các <b>công thức</b> của môn học, sinh viên ghi vào đầu 
 * `Bài tập.md` các bài tập giao cho sinh viên
-* `Thuc-hanh-Mathematica-Excel.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
+* `Thuc hanh.pdf` sinh viên ghi vào cuối vở, phải có vở mới được vào phòng máy thực hành
 * Link tải <b>Mathematica 5.2</b> cho hệ điều hành <b>Windows</b>
      <p align="center">
           <a href="https://nuceedu-my.sharepoint.com/:u:/g/personal/thinhnd_huce_edu_vn/ETNB4kBp6ZBCvD658pIzLIIBeA7AUoozkl83dioTa16vnA">OneDrive</a>
