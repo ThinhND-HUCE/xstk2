@@ -17,3 +17,5 @@ Ngày 16/10/2025, đã cập nhật file `Cong thuc.pdf` và `Thuc hanh.pdf`
   </tr>
 </table>
 
+# Ghi chú:
+Các tài liệu do giảng viên cung cấp, sinh viên có thể tải, đọc trên các thiết bị, nhưng **không** được in, chia sẻ.
