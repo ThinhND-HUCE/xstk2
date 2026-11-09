@@ -1,5 +1,7 @@
 # Thông báo
 Ngày 09/11/2026, cập nhật file `Outline.md`
+## Kiểm tra giữa kỳ
+* d
 
 # Mô tả về các tệp:
 * `Outline.md` đề cương mô tả các dạng kiểm tra/thi
