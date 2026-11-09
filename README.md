@@ -1,7 +1,8 @@
 # Thông báo
-Ngày 16/10/2025, đã cập nhật file `Cong thuc.pdf` và `Thuc hanh.pdf`
+Ngày 09/11/2026, cập nhật file `Outline.md'
 
 # Mô tả về các tệp:
+* `Outline.md` đề cương mô tả các dạng kiểm tra/thi
 * `Cong thuc.pdf` liệt kê các <b>công thức</b> của môn học. Sinh viên ghi vào đầu vở 
 * `Bài tập.md` các bài tập giao cho sinh viên
 * `Thuc hanh.pdf` hướng dẫn thực hành Excel. inh viên ghi vào cuối vở, phải có vở mới được vào phòng máy thực hành
