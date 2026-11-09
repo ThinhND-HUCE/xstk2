@@ -5,7 +5,7 @@ Ngày 09/11/2026, cập nhật file `Outline.md`
 * Bài kiểm tra 1/2: hỏi về CLO1, khoảng 30 phút. Bài kiểm tra 2/2: hỏi về CLO2, khoảng 45 phút
 * Trình bày trên tờ giấy do giảng viên cung cấp
 * **Yêu cầu:** sinh viên chuẩn bị giấy nháp trắng A4, máy tính bỏ túi
-* _Ghi chú:_ nếu sĩ số lớp lớn hơn số bàn (hoặc số máy tính trên phòng máy), lớp thường được chia thành 2 ca kiểm tra. Danh sách kiểm tra lần 1, 2 được thông báo tại đây. Sinh viên không được viện lý do để đổi ca
+* _Ghi chú:_ nếu sĩ số lớp lớn hơn số bàn (hoặc số máy tính trên phòng máy), lớp thường được chia thành 2 ca kiểm tra. Danh sách kiểm tra lần 1, 2 được chỉ định ở các file, chẳng hạn `Lớp, Ca 1.csv`, `Lớp, Ca 2.csv`. Sinh viên không được viện lý do để đổi ca
 
 # Mô tả về các tệp:
 * `Outline.md` đề cương mô tả các dạng kiểm tra/thi
