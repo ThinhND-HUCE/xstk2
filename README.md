@@ -1,7 +1,10 @@
 # Thông báo
 Ngày 09/11/2026, cập nhật file `Outline.md`
-## Kiểm tra giữa kỳ
-* d
+## Tổ chức kiểm tra giữa kỳ
+* Hình thức: tự luận, không dùng tài liệu
+* Bài kiểm tra 1/2: hỏi về CLO1. Bài kiểm tra 2/2: hỏi về CLO2
+* Trình bày trên tờ giấy do giảng viên cung cấp
+* **Yêu cầu:**: sinh viên chuẩn bị giấy nháp trắng A4, máy tính bỏ túi
 
 # Mô tả về các tệp:
 * `Outline.md` đề cương mô tả các dạng kiểm tra/thi
